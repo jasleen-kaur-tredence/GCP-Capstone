@@ -1,0 +1,80 @@
+﻿hosp_ref_id,name,hosp_id,valid_from,valid_upto,latitude,longitude,location,sector,state,num_licensed_beds,num_staffed_beds,num_icu_beds,adult_icu_beds,pedi_icu_beds,ventilators_available,surgery_theatres
+H-2006-0001,B.M. Birla Heart Research Centre,20060001,30-10-2018,29-10-2021,30.3255646,78.0436813,Dehradun,Private,Uttarakhand,62,62,0,0,,0,3
+H-2006-0002,MIMS Hospital,20060002,30-10-2018,29-10-2021,13.3519723,74.7870308,Manipal,Private,Karnataka,295,295,2,2,,2,3
+H-2006-0018,Kerala Institute of Medical Sciences (KIMS),20070003,03-11-2019,02-11-2022,12.81615,80.03677,Kattankulathur,Private,Tamil Nadu,54,54,2,2,,2,4
+H-2006-0015,Max Super Speciality Hospital,20070004,06-02-2019,05-02-2022,12.9071753,79.1309695,Vellore,Private,Tamil Nadu,216,216,1,1,,2,4
+H-2006-0014,Max Super Speciality Hospital ( A Unit of Devki Devi Foundation),20070005,06-02-2019,05-02-2022,18.9387711,72.8353355,Mumbai,Public/Government,Maharashtra,62,62,0,0,,1,1
+H-2006-0019,Moolchand Hospital,20070006,19-03-2019,18-03-2022,12.9791198,77.5912997,Bangalore,Private,Karnataka,164,164,1,1,,2,0
+H-2006-0005,Narayana Hrudayalaya Limited,20060005,05-06-2019,04-06-2022,18.521428,73.8544541,Pune,Public/Government,Maharashtra,432,278,2,2,,2,4
+H-2007-0037,Dr L H Hiranandani Hospital,20070008,14-09-2016,13-09-2019,12.9791198,77.5912997,Bangalore,Private,Karnataka,46,46,1,1,,1,5
+H-2006-0027,Fortis Hospital,20070009,19-12-2019,18-12-2022,31.2206734,75.7696463,Phagwara,Private,Punjab,111,111,1,1,,2,4
+H-2007-0034,Sagar Hospitals,20070010,17-02-2018,16-02-2021,13.3519723,74.7870308,Manipal,Private,Karnataka,160,160,10,10,20,2,3
+H-2007-0039,Columbia Asia Hospital - Hebbal,20070011,20-12-2019,19-12-2022,11.0018115,76.9628425,Coimbatore,Private,Tamil Nadu,89,89,2,2,,2,5
+H-2007-0032,Manipal Hospital,20080012,11-02-2020,10-02-2023,12.81615,80.03677,Kattankulathur,Private,Tamil Nadu,163,163,1,1,,1,1
+H-2007-0049,Nethradhama Superspeciality Eye Hospital ,20080013,27-05-2017,26-05-2020,12.9071753,79.1309695,Vellore,Private,Tamil Nadu,67,67,2,2,,2,4
+H-2006-0023,Lakeshore Hospital & Research Centre Ltd.,20080014,03-07-2019,02-07-2022,22.2973142,73.1942567,Vadodara,Public/Government,Gujarat,311,311,2,2,,2,2
+H-2006-0031,Baby Memorial Hospital,20080015,29-12-2018,28-12-2021,28.6141793,77.2022662,New Delhi,Public/Government,Delhi,37,37,1,1,,1,2
+H-2006-0004,Escorts Heart Institute & Research Centre,20060004,16-06-2017,15-06-2020,8.5058909,76.9570481,Thiruvananthapuram,Public/Government,Kerala,146,146,2,2,,2,2
+H-2006-0028,Sir Ganga Ram Hospital ,20080017,16-06-2020,15-06-2023,13.0801721,80.2838331,Chennai,Public/Government,Tamil Nadu,85,55,6,6,0,2,3
+H-2007-0046,Escorts Fortis Hospital ,20080018,16-06-2017,15-06-2020,12.9791198,77.5912997,Bangalore,Private,Karnataka,150,129,17,17,0,3,1
+H-2008-0060,Fortis Hospital ,20080019,16-06-2017,15-06-2020,18.521428,73.8544541,Pune,Private,Maharashtra,58,55,4,4,0,2,5
+H-2006-0024,Seven Hills Hospital,20080022,19-05-2020,18-05-2023,12.9791198,77.5912997,Bangalore,Private,Karnataka,74,30,5,5,0,2,4
+H-2006-0010,Dharamshila Cancer Foundation and Research Centre,20080023,21-11-2017,20-11-2020,18.9387711,72.8353355,Mumbai,Public/Government,Maharashtra,35,25,4,4,0,1,5
+H-2008-0071,Chacha Nehru Bal Chikitsalaya,20090024,16-02-2018,15-02-2021,22.4914615,88.02928966,Howrah,Public/Government,West Bengal,25,25,6,6,0,2,1
+H-2007-0058,Kailash Hospital & Research Centre Ltd.,20090025,16-02-2018,15-02-2021,28.6141793,77.2022662,New Delhi,Public/Government,Delhi,61,30,5,5,0,1,3
+H-2007-0036,G. Kuppuswami Naidu Memorial Hospital,20090026,12-03-2020,11-03-2023,22.5677459,88.3476023,Kolkata,Public/Government,West Bengal,72,44,7,7,0,2,5
+H-2008-0084,Sterling Hospitals,20090027,08-05-2018,07-05-2021,28.6141793,77.2022662,New Delhi,Public/Government,Delhi,125,125,6,6,0,2,3
+H-2007-0052,Amrita Institute of Medical Sciences,20090028,03-06-2018,02-06-2021,11.0018115,76.9628425,Coimbatore,Private,Tamil Nadu,323,272,18,18,0,11,4
+H-2008-0078,Apollo Speciality Hospitals,20090029,24-02-2019,23-02-2022,23.0216238,72.5797068,Ahmedabad,Public/Government,Gujarat,115,84,15,15,,0,0
+H-2008-0063,Paras Hospitals,20090030,01-07-2018,30-06-2021,12.9791198,77.5912997,Bangalore,Private,Karnataka,60,45,8,8,0,1,4
+H-2008-0081,Wockhardt Hospitals Ltd.,20090031,01-07-2018,30-06-2021,18.9387711,72.8353355,Mumbai,Public/Government,Maharashtra,50,21,4,4,0,1,3
+H-2008-0072,P D Hinduja National Hospital & Research Centre,20090032,01-07-2018,30-06-2021,18.521428,73.8544541,Pune,Private,Maharashtra,35,35,6,6,0,1,5
+H-2008-0082,N.M. Virani Wockhardt Hospital,20090033,01-07-2018,30-06-2021,22.5677459,88.3476023,Kolkata,Private,West Bengal,45,46,4,4,0,2,5
+H-2008-0091,Godrej Memorial Hospital,20090034,01-07-2018,30-06-2021,21.1864607,72.8081281,Surat,Public/Government,Gujarat,131,99,7,7,0,2,0
+H-2006-0025,Fortis Flt. Lt. Rajan Dhall Hospital,20090035,09-06-2019,08-06-2022,18.9387711,72.8353355,Mumbai,Private,Maharashtra,198,122,10,10,0,2,3
+H-2008-0064,General Hospital,20090037,14-09-2012,13-09-2015,8.5058909,76.9570481,Thiruvananthapuram,Public/Government,Kerala,88,83,8,8,0,2,2
+H-2006-0026,Fortis Hospitals Limited,20090038,14-09-2018,13-09-2021,30.7194022,76.7646552,Chandigarh,Public/Government,Chandigarh,99,45,5,5,0,2,5
+H-2009-0123,Ruby Hall Clinic,20090039,05-11-2018,04-11-2021,23.3700354,85.3250132,Ranchi,Private,Jharkhand,65,29,5,5,0,2,2
+H-2008-0085,Sterling Hospitals,20090040,10-12-2018,09-12-2021,18.521428,73.8544541,Pune,Private,Maharashtra,145,145,12,12,0,5,5
+H-2009-0117,Artemis Health Institute,20100041,16-02-2019,15-02-2022,18.521428,73.8544541,Pune,Private,Maharashtra,89,77,6,6,0,2,0
+H-2008-0065,Sparsh Hospital for Accidents Orthopedics,20100042,16-02-2019,15-02-2022,26.916194,75.820349,Jaipur,Private,Rajasthan,175,109,23,23,0,2,0
+H-2008-0086,Apollo Speciality Hospital,20100043,16-02-2019,15-02-2022,22.5677459,88.3476023,Kolkata,Private,West Bengal,134,97,12,12,0,3,1
+H-2009-0184,Shalby Hospitals,20100044,03-03-2019,02-03-2022,10.804973,78.6870296,Tiruchirappalli,Public/Government,Tamil Nadu,69,37,5,5,0,2,3
+H-2008-0079,Fortis Hospitals Ltd. ,20100046,20-05-2019,19-05-2022,11.0018115,76.9628425,Coimbatore,Private,Tamil Nadu,69,33,6,6,0,1,0
+H-2009-0122,Wockhardt Hospitals Ltd.,20100047,20-05-2019,19-05-2022,18.521428,73.8544541,Pune,Private,Maharashtra,91,46,8,8,0,2,1
+H-2006-0003,Rockland Hospital,20060003,07-03-2017,06-03-2020,26.8381,80.9346001,Lucknow,Private,Uttar Pradesh,51,49,6,6,0,2,5
+H-2009-0196,K.G. Hospital,20100049,24-02-2019,23-02-2022,23.0216238,72.5797068,Ahmedabad,Private,Gujarat,346,222,40,40,0,8,1
+H-2009-0358,Holy Spirit Hospital,20100050,20-07-2019,19-07-2022,25.4381302,81.8338005,Allahabad,Public/Government,Uttar Pradesh,281,256,45,45,0,6,2
+H-2007-0035,Batra Hospital & Medical Research Centre,20100051,05-08-2019,04-08-2022,17.7231276,83.3012842,Visakhapatnam,Public/Government,Andhra Pradesh,61,45,8,8,0,2,0
+H-2008-0087,PSG Hospitals,20100052,09-09-2019,08-09-2022,22.34309,87.3012875,Kharagpur,Public/Government,West Bengal,100,49,7,7,0,2,3
+H-2009-0176,Frontier Lifeline Hospital,20100053,09-09-2019,08-09-2022,30.7194022,76.7646552,Chandigarh,Private,Chandigarh,25,25,4,4,0,1,5
+H-2009-0133,Dr. B.L. Kapur Memorial Hospital,20100054,09-09-2019,08-09-2022,11.0018115,76.9628425,Coimbatore,Public/Government,Tamil Nadu,83,73,6,6,0,2,3
+H-2009-0304,Gleneagles Global Health City,20100055,27-10-2019,26-10-2022,23.2232877,72.6492267,Gandhinagar,Private,Gujarat,20,20,4,4,0,0,1
+H-2009-0182,Yashoda Super Speciality Hospital,20100056,27-10-2019,26-10-2022,31.3323762,75.576889,Jalandhar,Public/Government,Punjab,39,28,5,5,0,0,5
+H-2009-0134,Jeewan Nursing Home & Hospital,20100057,27-10-2019,26-10-2022,11.3306483,77.7276519,Erode,Private,Tamil Nadu,235,235,26,26,6,8,3
+H-2009-0125,Max Super Specialty Hospital,20100058,29-10-2019,28-10-2022,12.8698101,74.8430082,Mangaluru,Public/Government,Karnataka,420,342,40,40,16,8,2
+H-2007-0043,Yashoda Hospital,20100059,09-12-2019,08-12-2022,18.521428,73.8544541,Pune,Private,Maharashtra,170,92,10,10,0,2,1
+H-2009-0355,Holy Family Hospital,20100060,27-10-2019,26-10-2022,29.8693496,77.8902124,Roorkee,Public/Government,Uttarakhand,409,400,83,83,30,13,3
+H-2008-0083,Primus Super Speciality Hospital ,20100061,06-12-2019,05-12-2022,26.916194,75.820349,Jaipur,Private,Rajasthan,505,279,33,33,12,9,0
+H-2009-0112,Max Hospital,20100062,24-11-2019,23-11-2022,15.3944786,73.8622326,Chicalim,Private,Goa,402,373,72,72,12,8,5
+H-2008-0074,Vijaya Medical & Educational Trust ,20110064,09-06-2019,08-06-2022,21.15254625,79.01449036,Nagpur,Public/Government,Maharashtra,362,309,44,44,0,12,3
+H-2009-0327,General Hospital,20110065,28-01-2017,27-01-2020,12.9791198,77.5912997,Bangalore,Private,Karnataka,106,12,2,2,0,0,0
+H-2010-0386,Lilavati Hospital and Research Centre,20110066,01-02-2020,31-01-2023,17.7231276,83.3012842,Visakhapatnam,Private,Andhra Pradesh,185,178,12,12,0,4,5
+H-2009-0359,Apollo Hospitals International Limited,20110067,04-02-2017,03-02-2020,26.2967719,73.0351433,Jodhpur,Public/Government,Rajasthan,1157,1100,85,85,106,29,2
+H-2009-0251,Max Super Specialty Hospital,20110068,04-02-2020,03-02-2023,13.0801721,80.2838331,Chennai,Private,Tamil Nadu,310,187,21,21,0,3,3
+H-2009-0139,Metro Hospital & Heart Institute,20110069,23-02-2017,22-02-2020,26.4609135,80.3217588,Kanpur,Public/Government,Uttar Pradesh,313,129,0,0,,0,4
+H-2007-0042,Delhi Heart and Lung Institute,20110070,23-02-2020,22-02-2023,17.9806094,79.5982115,Warangal,Public/Government,Telangana,595,425,26,26,32,8,4
+H-2008-0090,Mehta Childern’s Hospitals Pvt. Ltd.,20110071,27-09-2016,26-09-2019,12.9791198,77.5912997,Bangalore,Private,Karnataka,263,233,36,36,0,6,1
+H-2009-0322,Columbia Asia Hospital ,20110072,23-03-2020,22-03-2023,28.3622661,75.6042342,Pilani,Private,Rajasthan,98,43,6,6,0,2,5
+H-2010-0396,Medanta – The Medicity ,20110073,23-03-2020,22-03-2023,28.6141793,77.2022662,New Delhi,Public/Government,Delhi,314,299,20,20,0,10,3
+H-2009-0159,Metro Hospital & Cancer Institute,20110074,16-04-2020,15-04-2023,12.9791198,77.5912997,Bangalore,Public/Government,Karnataka,71,66,10,10,0,3,2
+H-2009-0108,District Govt. Head Quarters Hospital ,20110075,25-04-2014,24-04-2017,13.0801721,80.2838331,Chennai,Private,Tamil Nadu,881,877,67,67,46,21,1
+H-2009-0276,Rainbow Children's Medicare Pvt. Ltd. ,20110076,10-06-2017,09-06-2020,17.38878595,78.46106473,Hyderabad,Private,Telangana,180,183,16,16,3,3,3
+H-2009-0323,Columbia Asia Referral Hospital,20110077,10-06-2017,09-06-2020,13.0801721,80.2838331,Chennai,Public/Government,Tamil Nadu,99,37,5,5,0,2,2
+H-2009-0275,Star Hospitals,20110078,10-06-2017,09-06-2020,18.521428,73.8544541,Pune,Private,Maharashtra,71,61,4,4,0,2,3
+H-2009-0350,Fortis Escorts Hospital ,20110079,10-06-2017,09-06-2020,19.8480821,75.43654422,Aurangabad,Public/Government,Maharashtra,49,36,4,4,0,1,3
+H-2010-0376,V.G.M. Hospital ,20110080,27-10-2018,26-10-2021,28.711241,77.4445372,Ghaziabad,Private,Uttar Pradesh,150,150,20,20,0,7,0
+H-2009-0260,L.V. Prasad Eye Institute ,20110081,10-06-2017,09-06-2020,12.3051828,76.6553609,Mysuru,Private,Karnataka,406,183,32,32,0,4,1
+H-2007-0048,Fortis Hospitals Ltd.,20110082,10-06-2017,09-06-2020,12.9791198,77.5912997,Bangalore,Public/Government,Karnataka,349,349,33,33,0,8,2
+H-2009-0214,Apollo Hospitals ,20110083,10-06-2017,09-06-2020,18.521428,73.8544541,Pune,Private,Maharashtra,669,611,38,38,0,11,5
+H-2010-0457,Aster MIMS Hospital,20110084,10-06-2017,09-06-2020,12.9791198,77.5912997,Bangalore,Private,Karnataka,263,198,20,20,0,5,4
